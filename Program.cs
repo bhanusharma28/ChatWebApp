@@ -28,12 +28,15 @@ builder.Services.AddSignalR();
 
 builder.Services.AddCors(options =>
 {
-	options.AddPolicy("AllowAll",
-		policy => policy
-			.AllowAnyOrigin()
+	options.AddPolicy("AllowRenderUI",
+		policy => {
+			policy.WithOrigins(
+				"https://chatwebappui.onrender.com"
+			)
 			.AllowAnyHeader()
 			.AllowAnyMethod()
-			.SetIsOriginAllowed(_ => true));
+			.AllowCredentials();
+		});
 });
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -54,6 +57,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.UseWebSockets();      // ? VERY IMPORTANT for SignalR
+
 app.UseCors("AllowAll");  // ? Allows your HTML file to connect
 
 app.MapHub<ChatHub>("/chathub");
