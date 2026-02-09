@@ -56,9 +56,11 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.UseRouting();
+
 app.UseWebSockets();      // ? VERY IMPORTANT for SignalR
 
-app.UseCors("AllowAll");  // ? Allows your HTML file to connect
+app.UseCors("AllowRenderUI");  // ? Allows your HTML file to connect
 
 app.MapHub<ChatHub>("/chathub");
 

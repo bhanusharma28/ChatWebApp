@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRChatWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59f7903019707679c5aeb9f67fd194480aca1370")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1601d20214239183b6e938df13b9894d65be37d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRChatWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRChatWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
