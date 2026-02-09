@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "SignalRChatWebAPI.Controllers.ChatController",
+    "Method": "GetChatHistory",
+    "RelativePath": "api/Chat/history/{senderId}/{receiverId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "senderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "receiverId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRChatWebAPI.Controllers.UsersController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRChatWebAPI.Controllers.UsersController",
+    "Method": "GetUserByName",
+    "RelativePath": "api/Users/byname/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
