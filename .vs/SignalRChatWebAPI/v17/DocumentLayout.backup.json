@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Feb_2026\\SignalRChatWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Feb_2026\\SignalRChatWebAPI\\Migrations\\20260209175939_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260209175939_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\interfaces\\iservice\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:interfaces\\iservice\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{089FF80D-BE22-4267-9906-5BCE6DC9169F}|SignalRChatWebAPI.csproj|d:\\feb_2026\\signalrchatwebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,31 +94,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IRepository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IUserRepository.cs",
-              "ToolTip": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IRepository\\IUserRepository.cs",
-              "RelativeToolTip": "Interfaces\\IRepository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20260209175939_Initial.cs",
+              "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Migrations\\20260209175939_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260209175939_Initial.cs",
+              "ToolTip": "D:\\Feb_2026\\SignalRChatWebAPI\\Migrations\\20260209175939_Initial.cs",
+              "RelativeToolTip": "Migrations\\20260209175939_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T14:02:42.363Z"
+              "WhenOpened": "2026-02-09T17:59:39.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "D:\\Feb_2026\\SignalRChatWebAPI\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T13:41:36.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
@@ -126,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ChatService.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Services\\ChatService.cs",
               "RelativeDocumentMoniker": "Services\\ChatService.cs",
@@ -138,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IChatService.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IService\\IChatService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IService\\IChatService.cs",
@@ -150,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ChatRepository.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Repository\\ChatRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ChatRepository.cs",
@@ -162,20 +167,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Feb_2026\\SignalRChatWebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAuwD0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T11:48:48.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T11:48:48.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ChatController.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
@@ -187,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IChatRepository.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IRepository\\IChatRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRepository\\IChatRepository.cs",
@@ -205,13 +209,26 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Feb_2026\\SignalRChatWebAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC2AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAkAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-09T11:46:49.019Z"
+              "WhenOpened": "2026-02-09T11:46:49.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:02:42.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Interfaces\\IService\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IService\\IUserService.cs",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ChatAppDbContext.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Data\\ChatAppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ChatAppDbContext.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Models\\Message.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ChatRelation.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Models\\ChatRelation.cs",
               "RelativeDocumentMoniker": "Models\\ChatRelation.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Feb_2026\\SignalRChatWebAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
